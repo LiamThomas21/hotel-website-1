@@ -10,5 +10,5 @@ Welcome to this Hotel Website project! This is a powerful and feature-rich React
 ## Features
 
 - Responsive Design
-- Dynamic and Interactive Components
+- You can Filter rooms by amount of people
 - Tailwind CSS Styling
